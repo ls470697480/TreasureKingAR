@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://treasure-king-0.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">812845110638</string>
+  <string name="google_storage_bucket" translatable="false">treasure-king-0.appspot.com</string>
+  <string name="project_id" translatable="false">treasure-king-0</string>
+  <string name="google_api_key" translatable="false">AIzaSyDHoFnLdjbgXmhpvYaRkuJ7N6O6-PHCWwM</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDHoFnLdjbgXmhpvYaRkuJ7N6O6-PHCWwM</string>
+  <string name="google_app_id" translatable="false">1:812845110638:android:932399bebd89bff2</string>
+  <string name="default_web_client_id" translatable="false">812845110638-6l2anfbm3vmv7lah4lg4oq1e8l5ariq0.apps.googleusercontent.com</string>
+</resources>
